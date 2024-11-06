@@ -5,6 +5,7 @@
   "repository": "https://github.com/ada-school/temaplate-codelab-react.git",
   "author": "Erik <santicasas667@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
