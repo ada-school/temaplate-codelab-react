@@ -1,0 +1,21 @@
+{
+  "name": "temaplate-codelab-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ada-school/temaplate-codelab-react.git",
+  "author": "Erik <santicasas667@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "ada-test": "vitest run --silent",
+    "ada-test:u": "vitest -u"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^5.4.10"
+  }
+}
